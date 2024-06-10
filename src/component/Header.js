@@ -18,7 +18,7 @@ function Header() {
                     <li><Link to="/recipe">Recipes</Link></li>
                 </ul>
             </nav>
-            <button><Link to="/login">Login</Link></button>
+            <Link to="/login"><button>Login</button></Link>
           </div>
         </div>
         <div className='blank'>0</div>
