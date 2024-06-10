@@ -1,5 +1,6 @@
 import { Routes, Route, Link } from 'react-router-dom'
 import { useState } from 'react';
+import { useLocation } from "react-router-dom";
 
 import Header from './component/Header';
 import Main from './component/Main';
@@ -8,6 +9,7 @@ import Who from './component/Who';
 import Recipes from './component/Recipes';
 import Login from './component/Login';
 import Footer from './component/Footer';
+import ScrollToTop from "./component/ScrollToTop.js"
 
 import data from './data.js'
 import data2 from './data2.js'
@@ -22,7 +24,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-
+      <ScrollToTop />
       <Routes>
         <Route path='/' element={ <Main /> }/>
         <Route path='/products' element={ <Products items={items} /> }/>
@@ -30,7 +32,6 @@ function App() {
         <Route path='/recipe' element={ <Recipes items2={items2} /> }/>
         <Route path='/login' element={ <Login /> }/>
       </Routes>
-
       <Footer />
     </div>
   )
