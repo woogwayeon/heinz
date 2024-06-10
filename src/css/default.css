@@ -85,7 +85,7 @@ p{ transform: rotate(0.03deg); }
      }
 }
 
-.main .v1 .inner img{
+.main .v1 .inner .main-images img{
     height: 750px;
     animation: main-bg 1.2s backwards;
 }
@@ -166,9 +166,9 @@ p{ transform: rotate(0.03deg); }
 }
 
 
-.main img{
+.main .main-images img{
     border: none;
-    width: 50%;
+    width: 100%;
 }
 
 
