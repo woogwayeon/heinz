@@ -608,6 +608,7 @@ p{ transform: rotate(0.03deg); }
     margin: 0 auto;
     border: none;
     font: 400 14px 'Lato';
+    color: #888;
 }
 
 .footer p{
@@ -616,4 +617,5 @@ p{ transform: rotate(0.03deg); }
     font: 400 14px 'Lato';
     padding-top: 24px;
     padding-bottom: 40px;
+    color: #888;
 }

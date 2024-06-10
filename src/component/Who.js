@@ -17,7 +17,7 @@ function Who() {
 
         <div className='who-main-para'>
           <div className="inner">
-            <p>Sustainability is core to our business. We’re well on our way to reaching our 2050 goal of carbon neutrality. In fact, we’re also on track to have 100% of Heinz Ketchup tomatoes sustainably sourced by 2025. And our commitment doesn’t stop there.</p>
+            <p>Sustainability is core to our business. We&apos;re well on our way to reaching our 2050 goal of carbon neutrality. In fact, we&apos;re also on track to have 100&#37; of Heinz Ketchup tomatoes sustainably sourced by 2025. And our commitment doesn&apos;t stop there.</p>
           </div>
         </div>
 
@@ -33,17 +33,17 @@ function Who() {
               <div class="img-block">
                 <img src="https://github.com/woogwayeon/heinz/blob/main/images/tomato2.jpg?raw=true" alt="" />
                 <h4>The best and the rest</h4>
-                <p>95% of our Heinz tomatoes are perfectly ripe when they leave the field. What’s left from harvesting, like vines and leaves are composted back into the soil for added nutrients.</p>
+                <p>95&#37; of our Heinz tomatoes are perfectly ripe when they leave the field. What&apos;s left from harvesting, like vines and leaves are composted back into the soil for added nutrients.</p>
               </div>
               <div class="img-block">
                 <img src="https://github.com/woogwayeon/heinz/blob/main/images/tomato3.jpg?raw=true" alt="" />
                 <h4>Recycled seeds</h4>
-                <p>Even after we’ve strained the thick, juicy tomato pulp, the leftover skins and seeds are upcycled into pet food or used to feed livestock on local farms.</p>
+                <p>Even after we&apos;ve strained the thick, juicy tomato pulp, the leftover skins and seeds are upcycled into pet food or used to feed livestock on local farms.</p>
               </div>
               <div class="img-block">
                 <img src="https://github.com/woogwayeon/heinz/blob/main/images/tomato4.jpg?raw=true" alt="" />
                 <h4>Conservation education</h4>
-                <p>We’ve created agricultural development projects that teach tomato conservation and conservation farming to farms worldwide, including Brazil, Egypt, and Spain.</p>
+                <p>We&apos;ve created agricultural development projects that teach tomato conservation and conservation farming to farms worldwide, including Brazil, Egypt, and Spain.</p>
               </div>
             </div>
           </div>
