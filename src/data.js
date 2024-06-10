@@ -1,14 +1,14 @@
 let data = [
     {
         id : 0,
-        title : "100&#37; Natural Spicy Brown Mustard",
+        title : "100% Natural Spicy Brown Mustard",
         content : "Available in 1 Size",
         image : "https://github.com/woogwayeon/heinz/blob/main/images/product1.png?raw=true"
     },
   
     {
         id : 1,
-        title : "100&#37; Natural Yellow Mustard",
+        title : "100% Natural Yellow Mustard",
         content : "Available in 3 Size",
         image : "https://github.com/woogwayeon/heinz/blob/main/images/product2.png?raw=true"
     },
