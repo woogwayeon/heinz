@@ -1,0 +1,25 @@
+/* Fonts */
+
+/* Google Fonts : Lato */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+/* Google Fonts : Noto Sans KR */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+/* CSS Reset */
+@charset utf8;
+html{ height: 100%; }
+body{ background: #fefefe; }
+body,header,div,article,section,nav,footer,h1,h2,h3,h4,h5,h6,ul,li,fieldset,legend,p{ margin: 0; padding: 0; font-family: 'Lato'; box-sizing: border-box; }
+h1,h2,h3,h4,h5,h6,input,button{ font-size: 14px; }
+ul,li,ol{ list-style: none; }
+a{ text-decoration: none; transition:0.5s; }
+a:hover{ opacity: 0.8; }
+fieldset{ border: none; }
+img { vertical-align:top; }
+table { border-collapse:collapse; }
+p{ font-size: 18px; }
+
+html{ scroll-behavior: smooth; }
+
+.blind{ position: absolute; top: -9999px; } 
